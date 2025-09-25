@@ -12,6 +12,6 @@
     $nome= $_REQUEST["nome"];
     $sexo= $_REQUEST["sexo"];
 
-    if
+    if($sexo=="Feminino")
 
     ?>
