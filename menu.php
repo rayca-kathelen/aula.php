@@ -7,4 +7,6 @@
             <a href="aluno_cadastro.php">Cadastrar</a>
             <a href="#">Consultar</a>
         </div>
+
+
     </div>
